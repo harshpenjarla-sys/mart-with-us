@@ -1,7 +1,14 @@
 import axios from 'axios';
 
+const getBaseURL = () => {
+  if (typeof window !== 'undefined' && window.location.origin.includes('github.io')) {
+    return 'https://concerns-attorneys-temp-associations.trycloudflare.com/api';
+  }
+  return '/api';
+};
+
 const API = axios.create({
-  baseURL: '/api',
+  baseURL: getBaseURL(),
   headers: {
     'Content-Type': 'application/json'
   }

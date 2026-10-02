@@ -8,7 +8,11 @@ export const SocketProvider = ({ children }) => {
   const [connected, setConnected] = useState(false);
 
   useEffect(() => {
-    const socketInstance = io(window.location.origin, {
+    const socketHost = window.location.origin.includes('github.io')
+      ? 'https://concerns-attorneys-temp-associations.trycloudflare.com'
+      : window.location.origin;
+
+    const socketInstance = io(socketHost, {
       transports: ['websocket', 'polling'],
       reconnectionAttempts: 5,
       reconnectionDelay: 2000
