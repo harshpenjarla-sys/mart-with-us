@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "mur7je3dsbs2tf",
+    "storeId": "store-baner-1",
+    "name": "MART WITH US — Baner Hub",
+    "area": "Baner",
+    "city": "Pune",
+    "address": "Shop 101-105, Primrose Mall, Baner High Street, Pune, MH 411045",
+    "pincode": "411045",
+    "contactPhone": "+91 98230 45678",
+    "isOpen": true,
+    "rating": 4.8,
+    "distanceKm": 2.1,
+    "deliveryTimeEstimate": "20-30 min",
+    "coordinates": {
+      "lat": 18.559,
+      "lng": 73.7868
+    },
+    "createdAt": "2026-10-02T16:58:48.985Z",
+    "updatedAt": "2026-10-02T16:58:48.985Z"
+  },
+  {
+    "_id": "mur7je3dztiez0",
+    "storeId": "store-wakad-2",
+    "name": "MART WITH US — Wakad Express",
+    "area": "Wakad",
+    "city": "Pune",
+    "address": "Near Datta Mandir Chowk, Kaspate Vasti, Wakad, Pune, MH 411057",
+    "pincode": "411057",
+    "contactPhone": "+91 98230 45679",
+    "isOpen": true,
+    "rating": 4.7,
+    "distanceKm": 3.8,
+    "deliveryTimeEstimate": "25-35 min",
+    "coordinates": {
+      "lat": 18.5987,
+      "lng": 73.7634
+    },
+    "createdAt": "2026-10-02T16:58:48.985Z",
+    "updatedAt": "2026-10-02T16:58:48.985Z"
+  },
+  {
+    "_id": "mur7je3er4hdy1",
+    "storeId": "store-kothrud-3",
+    "name": "MART WITH US — Kothrud Supercenter",
+    "area": "Kothrud",
+    "city": "Pune",
+    "address": "Paud Road, Ideal Colony, Kothrud, Pune, MH 411038",
+    "pincode": "411038",
+    "contactPhone": "+91 98230 45680",
+    "isOpen": true,
+    "rating": 4.9,
+    "distanceKm": 4.5,
+    "deliveryTimeEstimate": "30-40 min",
+    "coordinates": {
+      "lat": 18.5074,
+      "lng": 73.8077
+    },
+    "createdAt": "2026-10-02T16:58:48.986Z",
+    "updatedAt": "2026-10-02T16:58:48.986Z"
+  }
+]

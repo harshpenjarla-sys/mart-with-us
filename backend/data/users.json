@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "mur7je3bfbsydp",
+    "name": "Rohan Sharma",
+    "email": "customer@martwithus.com",
+    "phone": "+91 98765 43210",
+    "password": "$2a$10$GEAQSXLawdUj/HbH2X9ZP.JCE4L/Nm12Zq3ytwiAQuAuGOHDPrYdK",
+    "role": "customer",
+    "profileImage": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=400&q=80",
+    "addresses": [
+      {
+        "_id": "addr-1",
+        "fullName": "Rohan Sharma",
+        "phone": "+91 98765 43210",
+        "house": "Flat 402, Building B",
+        "street": "Green Meadows Society",
+        "area": "Baner",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "pincode": "411045",
+        "landmark": "Opposite Westend Hotel",
+        "isDefault": true
+      },
+      {
+        "_id": "addr-2",
+        "fullName": "Rohan Sharma (Office)",
+        "phone": "+91 98765 43210",
+        "house": "Floor 5, IT Tower 3",
+        "street": "Hinjawadi Phase 1",
+        "area": "Hinjawadi",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "pincode": "411057",
+        "landmark": "Near Wipro Circle",
+        "isDefault": false
+      }
+    ],
+    "createdAt": "2026-10-02T16:58:48.983Z",
+    "updatedAt": "2026-10-02T16:58:48.984Z"
+  },
+  {
+    "_id": "mur7je3cca6apo",
+    "name": "Rahul K. Verma",
+    "email": "delivery@martwithus.com",
+    "phone": "+91 91234 56789",
+    "password": "$2a$10$GEAQSXLawdUj/HbH2X9ZP.4dOw582gTgOu5E6zjyQQDFQ0A9Uljfu",
+    "role": "delivery",
+    "profileImage": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?auto=format&fit=crop&w=400&q=80",
+    "createdAt": "2026-10-02T16:58:48.984Z",
+    "updatedAt": "2026-10-02T16:58:48.984Z"
+  },
+  {
+    "_id": "mur7je3dhvhana",
+    "name": "MART WITH US Admin",
+    "email": "admin@martwithus.com",
+    "phone": "+91 98230 00000",
+    "password": "$2a$10$GEAQSXLawdUj/HbH2X9ZP.a70j/nMxP5DtH.cf2TGyIL0FS/d8B8W",
+    "role": "admin",
+    "profileImage": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=400&q=80",
+    "createdAt": "2026-10-02T16:58:48.985Z",
+    "updatedAt": "2026-10-02T16:58:48.985Z"
+  },
+  {
+    "_id": "mur7je3ehl0o2n",
+    "name": "Vikram Shinde",
+    "email": "vikram.delivery@gmail.com",
+    "phone": "+91 98221 44556",
+    "password": "$2a$10$GEAQSXLawdUj/HbH2X9ZP.4dOw582gTgOu5E6zjyQQDFQ0A9Uljfu",
+    "role": "delivery",
+    "profileImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+    "createdAt": "2026-10-02T16:58:48.986Z",
+    "updatedAt": "2026-10-02T16:58:48.986Z"
+  }
+]

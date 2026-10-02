@@ -1,0 +1,71 @@
+[
+  {
+    "_id": "mur7je3edpvp6z",
+    "userId": "mur7je3cca6apo",
+    "fullName": "Rahul K. Verma",
+    "email": "delivery@martwithus.com",
+    "phone": "+91 91234 56789",
+    "profilePhoto": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?auto=format&fit=crop&w=400&q=80",
+    "vehicleType": "Bike",
+    "vehicleNumber": "MH-12-AB-1234",
+    "drivingLicense": "DL-MH12-202200984",
+    "governmentId": "AADHAAR-XXXX-XXXX-9842",
+    "serviceArea": "Baner, Aundh, Wakad & Balewadi (Pune)",
+    "verificationStatus": "APPROVED",
+    "availability": {
+      "isOnline": true,
+      "isBusy": false,
+      "activeOrderId": null
+    },
+    "currentLocation": {
+      "lat": 18.559,
+      "lng": 73.7868,
+      "lastUpdated": "2026-10-02T16:58:48.986Z"
+    },
+    "earnings": {
+      "today": 620,
+      "total": 14850,
+      "pending": 180
+    },
+    "rating": 4.85,
+    "totalReviews": 86,
+    "ordersCompleted": 44,
+    "createdAt": "2026-10-02T16:58:48.986Z",
+    "updatedAt": "2026-10-02T16:58:49.049Z",
+    "availability.isBusy": true,
+    "availability.activeOrderId": "MWU-20261002-10482"
+  },
+  {
+    "_id": "mur7je3f1wh6b3",
+    "userId": "mur7je3ehl0o2n",
+    "fullName": "Vikram Shinde",
+    "email": "vikram.delivery@gmail.com",
+    "phone": "+91 98221 44556",
+    "vehicleType": "Scooter",
+    "vehicleNumber": "MH-14-CZ-7821",
+    "drivingLicense": "DL-MH14-202301984",
+    "governmentId": "AADHAAR-XXXX-XXXX-4411",
+    "serviceArea": "Kothrud & Karve Nagar",
+    "verificationStatus": "PENDING",
+    "availability": {
+      "isOnline": false,
+      "isBusy": false,
+      "activeOrderId": null
+    },
+    "currentLocation": {
+      "lat": 18.5074,
+      "lng": 73.8077,
+      "lastUpdated": "2026-10-02T16:58:48.987Z"
+    },
+    "earnings": {
+      "today": 0,
+      "total": 0,
+      "pending": 0
+    },
+    "rating": 5,
+    "totalReviews": 0,
+    "ordersCompleted": 0,
+    "createdAt": "2026-10-02T16:58:48.987Z",
+    "updatedAt": "2026-10-02T16:58:48.987Z"
+  }
+]

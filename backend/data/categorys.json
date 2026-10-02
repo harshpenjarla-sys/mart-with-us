@@ -1,0 +1,139 @@
+[
+  {
+    "_id": "mur7je3f3jdvhh",
+    "name": "Grocery & Staples",
+    "slug": "grocery-staples",
+    "icon": "🌾",
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=600&q=80",
+    "description": "Rice, wheat, atta, dals, spices, edible oils and daily cooking essentials.",
+    "subCategories": [
+      "Rice",
+      "Wheat & Atta",
+      "Dal & Pulses",
+      "Oil & Ghee",
+      "Spices",
+      "Sugar & Salt"
+    ],
+    "itemCount": 28,
+    "createdAt": "2026-10-02T16:58:48.987Z",
+    "updatedAt": "2026-10-02T16:58:48.987Z"
+  },
+  {
+    "_id": "mur7je3gmqlkpl",
+    "name": "Fresh Produce",
+    "slug": "fresh-produce",
+    "icon": "🥦",
+    "image": "https://images.unsplash.com/photo-1610832958506-aa56368176cf?auto=format&fit=crop&w=600&q=80",
+    "description": "Farm-fresh vegetables, organic fruits, greens and seasonal harvests.",
+    "subCategories": [
+      "Vegetables",
+      "Fruits",
+      "Herbs & Seasoning"
+    ],
+    "itemCount": 20,
+    "createdAt": "2026-10-02T16:58:48.988Z",
+    "updatedAt": "2026-10-02T16:58:48.988Z"
+  },
+  {
+    "_id": "mur7je3g6xezhi",
+    "name": "Dairy & Eggs",
+    "slug": "dairy-eggs",
+    "icon": "🥛",
+    "image": "https://images.unsplash.com/photo-1528750997573-59b89d56f4f7?auto=format&fit=crop&w=600&q=80",
+    "description": "Pure cow milk, toned milk, dahi, fresh paneer, butter, cheese and farm eggs.",
+    "subCategories": [
+      "Milk",
+      "Curd & Paneer",
+      "Butter & Cheese",
+      "Eggs"
+    ],
+    "itemCount": 16,
+    "createdAt": "2026-10-02T16:58:48.988Z",
+    "updatedAt": "2026-10-02T16:58:48.988Z"
+  },
+  {
+    "_id": "mur7je3gkc0css",
+    "name": "Snacks & Beverages",
+    "slug": "snacks-beverages",
+    "icon": "☕",
+    "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?auto=format&fit=crop&w=600&q=80",
+    "description": "Tea, coffee, fruit juices, cold drinks, namkeen, biscuits and chocolates.",
+    "subCategories": [
+      "Biscuits",
+      "Chips & Namkeen",
+      "Chocolates",
+      "Soft Drinks",
+      "Juice",
+      "Tea & Coffee"
+    ],
+    "itemCount": 24,
+    "createdAt": "2026-10-02T16:58:48.988Z",
+    "updatedAt": "2026-10-02T16:58:48.988Z"
+  },
+  {
+    "_id": "mur7je3h9mfe5u",
+    "name": "Household & Cleaning",
+    "slug": "household-cleaning",
+    "icon": "🧼",
+    "image": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?auto=format&fit=crop&w=600&q=80",
+    "description": "Detergents, floor cleaners, dishwashers, garbage bags and home care.",
+    "subCategories": [
+      "Detergents",
+      "Cleaning Products",
+      "Kitchen Essentials",
+      "Paper Products"
+    ],
+    "itemCount": 18,
+    "createdAt": "2026-10-02T16:58:48.989Z",
+    "updatedAt": "2026-10-02T16:58:48.989Z"
+  },
+  {
+    "_id": "mur7je3hwgla79",
+    "name": "Personal Care",
+    "slug": "personal-care",
+    "icon": "🧴",
+    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=600&q=80",
+    "description": "Soaps, shampoos, hair oils, body lotions, toothpastes and skincare.",
+    "subCategories": [
+      "Soaps & Body Wash",
+      "Hair Care",
+      "Oral Care",
+      "Skin Care"
+    ],
+    "itemCount": 15,
+    "createdAt": "2026-10-02T16:58:48.989Z",
+    "updatedAt": "2026-10-02T16:58:48.989Z"
+  },
+  {
+    "_id": "mur7je3h28ig0t",
+    "name": "Baby Care",
+    "slug": "baby-care",
+    "icon": "🍼",
+    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=600&q=80",
+    "description": "Diapers, gentle wipes, baby wash, lotion, infant foods and feeding.",
+    "subCategories": [
+      "Diapers & Wipes",
+      "Baby Food",
+      "Baby Hygiene"
+    ],
+    "itemCount": 10,
+    "createdAt": "2026-10-02T16:58:48.989Z",
+    "updatedAt": "2026-10-02T16:58:48.989Z"
+  },
+  {
+    "_id": "mur7je3iw7zo01",
+    "name": "Stationery & Essentials",
+    "slug": "stationery-essentials",
+    "icon": "✏️",
+    "image": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "description": "Notebooks, pens, batteries, adhesives, emergency candles and repellents.",
+    "subCategories": [
+      "Notebooks & Pens",
+      "Adhesives",
+      "Batteries & Home Utilities"
+    ],
+    "itemCount": 8,
+    "createdAt": "2026-10-02T16:58:48.990Z",
+    "updatedAt": "2026-10-02T16:58:48.990Z"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "name": "mart-with-us",
+  "version": "1.0.0",
+  "description": "MART WITH US — Full-Stack Grocery & Daily Essentials Delivery Platform",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd backend && npm run dev",
+    "client": "cd frontend && npm run dev",
+    "install:all": "npm install && cd backend && npm install && cd ../frontend && npm install",
+    "seed": "cd backend && npm run seed"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  },
+  "keywords": [
+    "grocery-delivery",
+    "ecommerce",
+    "fullstack",
+    "react",
+    "nodejs",
+    "express"
+  ],
+  "author": "MART WITH US Team",
+  "license": "ISC"
+}
