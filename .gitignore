@@ -1,6 +1,5 @@
 node_modules/
 cloudflared.exe
 .env
-dist/
 .DS_Store
 *.log
